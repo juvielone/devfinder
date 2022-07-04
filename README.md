@@ -1,6 +1,6 @@
-# definder
+# devfinder
 
-A brief description of what this project does and who it's for
+devfinder is a web application that finds information and repositories in all GitHub users. It lists public information such as followers, location, and recently published repositories
 
 ## Screenshots
 
