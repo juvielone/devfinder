@@ -4,9 +4,9 @@
 // $sec-color: #1f2a48;
 // $min-color: rgb(245, 244, 244);
 
-$primary-color: #313131;
-$sec-color: #525252;
-$min-color: #ca3e47;
+$primary-color: #171717;
+$sec-color: #444444;
+$min-color: #da0037;
 
 body {
   background-color: $primary-color;
@@ -260,7 +260,7 @@ textarea {
 }
 
 .number-container {
-  background-color: #141c2f;
+  background-color: $min-color;
   border-radius: 15px;
   /* height: 129px; */
   margin-top: 28px;
