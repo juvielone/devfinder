@@ -1,3 +1,17 @@
+# definder
+
+A brief description of what this project does and who it's for
+
+## Screenshots
+
+![App Screenshot](./screenshots/snap.JPG)
+
+## Tech Stack
+
+**Client:** React, Bootstrap, Github API
+
+**State Management:** Context API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
