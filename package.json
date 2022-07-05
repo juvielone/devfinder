@@ -1,13 +1,8 @@
 {
   "name": "devfinder",
   "version": "0.1.0",
-<<<<<<< HEAD
-  "homepage": ".",
-  "private": false,
-=======
   "homepage": "https://juvielone.github.io/devfinder",
-  "private": true,
->>>>>>> ffb5d719f81ae1091ef2395151f81a8a6a8e12ec
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
