@@ -1,7 +1,7 @@
 {
   "name": "devfinder",
   "version": "0.1.0",
-  "homepage": "https://juvielone.github.io/devfinder",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.5.0",
