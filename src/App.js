@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter, BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from "./pages/Home";
 import OneUser from "./users/OneUser";
 
@@ -12,7 +12,7 @@ function App() {
   return (
     <GithubState>
 
-      <Router>
+      <HashRouter>
 
         <div className="container-fluid" >
 
@@ -31,7 +31,7 @@ function App() {
 
         </div>
 
-      </Router>
+      </HashRouter>
 
     </GithubState>
   );
